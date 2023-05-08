@@ -1,0 +1,33 @@
+.ShoppingCart{
+	margin-bottom: 10rem;
+}
+
+.green {
+	color: green;
+}
+
+.line-through {
+	text-decoration: line-through;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.pricebox {
+	display: flex;
+}
+
+.ml5 {
+	margin-left: 5px;
+}
+
+.cartItem {
+	display: flex;
+	flex-direction: row;
+	border: 2px solid black;
+}
+
+.cartItem img {
+	width: 200px;
+}
