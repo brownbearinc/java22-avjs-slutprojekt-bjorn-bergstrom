@@ -1,5 +1,5 @@
 import { createRoot } from 'react-dom/client';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 import { useEffect, useState } from 'react';
 import Products from './pages/homepage/Products';
 import ShoppingCart from './pages/shoppingcart/ShoppingCart';
